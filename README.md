@@ -44,8 +44,6 @@ Spring Security with JWT for authentication
 
 PostgreSQL for database management
 
-Swagger/OpenAPI for API documentation
-
 Frontend:
 
 React.js (coming soon)
