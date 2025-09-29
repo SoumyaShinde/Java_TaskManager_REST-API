@@ -1,6 +1,6 @@
-# 📝 Task Pointer
+# 📝 Task Manager
 
-Task Pointer is a RESTful Java Spring Boot application that allows users to manage tasks efficiently. It supports features like creating, updating, filtering, and retrieving tasks with support for pagination, due dates, and tags. It also provides endpoints to fetch expired or completed tasks.
+Task Manager is a RESTful Java Spring Boot application that allows users to manage tasks efficiently. It supports features like creating, updating, filtering, and retrieving tasks with support for pagination, due dates, and tags. It also provides endpoints to fetch expired or completed tasks.
 
 ---
 
