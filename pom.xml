@@ -100,6 +100,7 @@
 	</dependencies>
 
 	<build>
+        <finalName>taskmanager</finalName>
 		<plugins>
 			<!-- Maven Compiler Plugin for Java 17 Support -->
 			<plugin>
