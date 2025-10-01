@@ -146,13 +146,31 @@ Each task supports the following **priorities** and **statuses**:
 
 ## 🛠️ Setup & Run
 
-```bash
-# Clone the repo
-git clone https://github.com/<your-username>/Feedback_API.git](https://github.com/SoumyaShinde/taskManager.git
 
-# Build & run
+# 1️⃣ Clone the repository
+```
+git clone https://github.com/SoumyaShinde/taskManager.git
+cd taskManager
+```
+
+# 2️⃣ Build & Run with Maven
+```
 ./mvnw spring-boot:run
 ```
+
+# 3️⃣ Run with Docker
+
+Build Docker image
+```
+docker build -t taskmanager:latest .
+```
+
+Run Docker container
+```
+docker run -p 8080:8080 taskmanager:latest
+```
+
+Access the app at: http://localhost:8080
 
 ---
 
